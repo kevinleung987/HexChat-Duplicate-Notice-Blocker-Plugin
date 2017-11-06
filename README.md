@@ -4,8 +4,10 @@ A simple plugin that blocks duplicate Notices for some time to prevent spam.
 
 * Place duplicate-notice-blocker.py in Users\User\AppData\Roaming\HexChat\addons
 * Start HexChat
+
 Or Alternatively
-* Start up HexChat
+
+* Start HexChat
 * Go to Window -> Plugins and Scripts -> Load...
 * Find duplicate-notice-blocker.py and load it
 
